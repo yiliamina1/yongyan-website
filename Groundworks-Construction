@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>海盐咏妍土石方工程有限公司</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+    }
+    header, footer {
+      background-color: #005baa;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #eee;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #005baa;
+      text-decoration: none;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .contact {
+      background-color: #f4f4f4;
+      padding: 1rem;
+      border-radius: 5px;
+    }
+    img {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>海盐咏妍土石方工程有限公司</h1>
+    <p>诚信 · 高效 · 安全</p>
+  </header>
+  <nav>
+    <a href="#about">关于我们</a>
+    <a href="#services">服务内容</a>
+    <a href="#contact">联系我们</a>
+  </nav>
+  <section id="about">
+    <h2>关于我们</h2>
+    <p>海盐咏妍土石方工程有限公司是一家专注于土石方施工与运输的专业公司，致力于为客户提供高质量、高效率的施工服务。公司拥有丰富的工程经验和专业的施工队伍。</p>
+  </section>
+  <section id="services">
+    <h2>服务内容</h2>
+    <ul>
+      <li>土石方工程施工</li>
+      <li>场地平整与基础开挖</li>
+      <li>建筑垃圾清运</li>
+      <li>大型机械设备操作</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>联系我们</h2>
+    <div class="contact">
+      <p><strong>联系电话：</strong>138-XXXX-XXXX</p>
+      <p><strong>公司地址：</strong>浙江省嘉兴市海盐县</p>
+      <p><strong>邮箱：</strong>contact@yongyan.com</p>
+      <p><strong>微信二维码：</strong>（此处可插入图片）</p>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2025 海盐咏妍土石方工程有限公司 | 浙ICP备XXXX号</p>
+  </footer>
+</body>
+</html>
